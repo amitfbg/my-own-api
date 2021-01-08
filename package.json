@@ -1,0 +1,18 @@
+{
+  "name": "my-own-api",
+  "version": "1.0.0",
+  "description": "making my demo api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "amit kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.10",
+    "nodemon": "^2.0.6"
+  }
+}
